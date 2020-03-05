@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Entities>
   <Entity Name="Certification.atmx">
@@ -7,4 +8,15 @@
       <Property Name="Status">Failed</Property>
     </Properties>
   </Entity>
+=======
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="Certification.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/13/2019 13:36:49</Property>
+      <Property Name="RunDuration">00:00:12</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+>>>>>>> 031f468b0b63b8d02b692c97f038d96c091274a1
 </Entities>
